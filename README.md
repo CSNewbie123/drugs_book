@@ -24,7 +24,20 @@ Other:-
 - Insights:- 
 ![D](https://user-images.githubusercontent.com/104115795/164938780-45706bf5-1bca-4369-a6df-2486d8a851d9.JPG)
 
+Dependencies:-
+- A TigerGraph Cloud account is required.
 
+Installation:-
+*I will properly update this soon, i missed up alot with github so am fixing it, here is a basic overview*
+1. Schema:-
+   A) Create 2 vertices (Drug, Disease) with respective attributes (Title, Status, Result, Intervention, Location, URL) and (Title, Status, Result, Condition,   
+   Location, URL). 
+   B) Create directed edge with attribute (Location).
+2. Mapping:-
+   A) Download all the csv files from resources folder and import them into the TigerGraph Studio.
+   B) Place them around the Scheme, match them with both vertices and the edge.
+3. Loading: Press play until finished.
+4. Exploring: View the insights through vertice expansion. 
 
 Improvements:-
 1. Better organization of data files that would reduce clutter as drugs are increase to 100-1k in number. 
