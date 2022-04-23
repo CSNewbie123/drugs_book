@@ -1,7 +1,5 @@
 # Drugs Book
-Graph of drugs and diseases they treat, providing a larger set of use cases of drugs beyond their singular clinical use. 
-
-This project is trying to accomplish graphing different drugs (intially 10) along with their use cases (10) and diseases they treat, by doing so we are able to see a drugs multiple use cases beyond the clinically approved single use. 
+Graph of drugs and diseases they treat, providing a larger set of use cases of drugs beyond their singular clinical use. This project is trying to accomplish graphing different drugs (intially 10) along with their use cases (10) and diseases they treat, by doing so we are able to see a drugs multiple use cases beyond the clinically approved single use. 
 
 # Presentation: 
 https://www.youtube.com/embed/nXYcaM1artU
