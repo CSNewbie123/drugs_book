@@ -29,8 +29,7 @@ Insights:-
 # Installation:-
 *I will properly update this soon, i missed up alot with github so am fixing it, here is a basic overview*
 - Schema:-
-   - Create 2 vertices (Drug, Disease) with respective attributes (Title, Status, Result, Intervention, Location, URL) and (Title, Status, Result, Condition,   
-   Location, URL). 
+   - Create 2 vertices (Drug, Disease) with respective attributes (Title, Status, Result, Intervention, Location, URL) and (Title, Status, Result, Condition, Location, URL). 
    - Create directed edge with attribute (Location).
 - Mapping:-
    - Download all the csv files from resources folder and import them into the TigerGraph Studio.
