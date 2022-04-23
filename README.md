@@ -14,11 +14,8 @@ https://www.youtube.com/embed/nXYcaM1artU
 - Data: 10 files are given in the resources folder. 
 - Technology: sole usage of TigerGraph.
 
-Schema:-
 ![B](https://user-images.githubusercontent.com/104115795/164938778-ded825bd-3d02-4ecb-b31e-7db2fd0f4878.JPG)
-Loading:-
 ![C](https://user-images.githubusercontent.com/104115795/164938779-a6fbc72e-5491-4fbe-adac-449735ad527b.JPG)
-Insights:- 
 ![D](https://user-images.githubusercontent.com/104115795/164938780-45706bf5-1bca-4369-a6df-2486d8a851d9.JPG)
 
 # Dependencies:-
